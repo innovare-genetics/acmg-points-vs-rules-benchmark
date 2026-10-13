@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this software."
+title: "ERepo combination benchmark: ACMG/AMP 2015 rules versus the Bayesian point system"
+authors:
+  - family-names: "Jiménez Nieto"
+    given-names: "Nuria"
+    affiliation: "Innovare Genetics (AI Innovare Group S.L.), Madrid, Spain"
+    orcid: "https://orcid.org/0009-0005-4399-0774"
+license: MIT
+repository-code: "https://github.com/innovare-genetics/acmg-points-vs-rules-benchmark"
+version: "1.0.0"
+date-released: "2026-10-13"

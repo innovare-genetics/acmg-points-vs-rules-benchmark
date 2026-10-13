@@ -1,0 +1,8 @@
+{
+  "title": "ERepo combination benchmark: ACMG/AMP 2015 rules versus the Bayesian point system (v1.0.0)",
+  "upload_type": "software",
+  "description": "Code to reproduce the re-classification of 13,012 ClinGen Evidence Repository interpretations from their applied evidence codes with three published combiners (ACMG/AMP 2015 rules, rules with the ClinGen SVI adjustment, and the naturally scaled Bayesian point system).",
+  "creators": [{"name": "Jiménez Nieto, Nuria", "affiliation": "Innovare Genetics (AI Innovare Group S.L.), Madrid, Spain", "orcid": "0009-0005-4399-0774"}],
+  "license": "MIT",
+  "keywords": ["ACMG/AMP", "variant classification", "ClinGen", "Bayesian point system", "benchmark"]
+}
